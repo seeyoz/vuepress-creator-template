@@ -8,5 +8,17 @@ A lightweight creator for VuePress project.
 
 </div>
 
+# Features
+- Devote one's energy to writing, instead of wasting time building the writing environment.
+- Two optional dependencies: VuePress and Less. But in fact, you can install more dependencies.
+- Optimize parts of styles.
+
+# Installation
+```
+npm install vuepress-creator
+```
 # Usage
+```
+vuepress-creator init <project>
+```
 See here for more details : [https://zpfz.github.io/vuepress-creator/](https://zpfz.github.io/vuepress-creator/)
