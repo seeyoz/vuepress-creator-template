@@ -15,7 +15,7 @@ A lightweight creator for VuePress project.
 
 # Installation
 ```
-npm install vuepress-creator
+npm i vuepress-creator -g
 ```
 # Usage
 ```
