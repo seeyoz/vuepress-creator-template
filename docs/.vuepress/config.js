@@ -13,7 +13,7 @@ module.exports = {
     smoothScroll: true,
     nav: require("./nav"),
     sidebar: require("./sidebar"),
-    sidebarDepth: 2,
+    sidebarDepth: 3,
     lastUpdated: "Last Updated",
     searchMaxSuggestoins: 10,
     repo: "{{ getRepo }}",
