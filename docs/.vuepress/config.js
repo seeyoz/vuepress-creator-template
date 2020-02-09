@@ -1,7 +1,6 @@
 module.exports = {
   title: "VuePress-Creator",
   description: "A lightweight creator for VuePress project.",
-  dest: "./dist",
   base: "{{ basePath }}",
   head: [
     ["link",{ rel: "icon",href: "/assets/logo.png" }]
