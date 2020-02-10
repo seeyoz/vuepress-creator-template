@@ -1,6 +1,6 @@
 {
   "name": "{{ projectName }}",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "A VuePress project created by vuepress-creator.",
   "main": "index.js",
   "scripts": {
